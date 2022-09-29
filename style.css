@@ -1,0 +1,50 @@
+.font1 {
+    font-family: Caveat;
+    font-weight: 900;
+    font-size: 48pt;
+}
+.font2 {
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    font-size: 28pt;
+}
+.font3 {
+    font-family: Neucha;
+    font-weight: 200;
+    font-size: 20pt;
+}
+.bord1 {
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+}
+.bord2 {
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+}
+.bgrnd1 {
+    background-color: lightgray;
+}
+.bgrnd2 {
+    background-color: lightskyblue;
+}
+.bgrnd3 {
+    background-color: lightgreen;
+}
+.center {
+    text-align: center;
+    font-style: italic;
+}
+.cimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.imgsize {
+    width: 400px;
+}
+.imgsty {
+    border-radius: 40%;
+}
+
