@@ -13,15 +13,20 @@
     font-weight: 200;
     font-size: 20pt;
 }
+.fontul{
+    text-decoration: underline;
+}
 .bord1 {
     border-style: solid;
     border-width: 5px;
     border-color: red;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 }
 .bord2 {
     border-style: solid;
     border-width: 5px;
     border-color: green;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 }
 .bgrnd1 {
     background-color: lightgray;
@@ -47,4 +52,9 @@
 .imgsty {
     border-radius: 40%;
 }
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
 
